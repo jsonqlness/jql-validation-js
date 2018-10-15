@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="90" src="./img/logo.svg" alt="fkill">
+	<img width="90" src="https://img-iduxhodzhv.now.sh" alt="JQL">
 	<br>
 	<br>
 </h1>
