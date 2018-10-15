@@ -1,10 +1,11 @@
 <h1 align="center">
 	<br>
-	<img width="360" src="./img/logo.svg" alt="fkill">
-	<br>
+	<img width="90" src="./img/logo.svg" alt="fkill">
 	<br>
 	<br>
 </h1>
+
+# JQL
 
 > Validate JSON with a GraphQL schema
 
