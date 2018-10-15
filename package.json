@@ -4,7 +4,7 @@
   "description": "Validate JSON using a GraphQL schema",
   "main": "index.js",
   "scripts": {
-    "test": "xo && npm run test"
+    "test": "xo && jest"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,10 @@
       "node",
       "jest"
     ]
-	},
+  },
+  "jest": {
+    "collectCoverage": true
+  },
   "author": "Nicola Zanon <nicola.zanon86@gmail.com> (https://nicola-zanon.com/)",
   "license": "MIT",
   "bugs": {
